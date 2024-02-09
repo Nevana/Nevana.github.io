@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Harpe;Tim;;;
+FN:Tim Harpe
+ORG:Byte Bridge UG
+ADR;TYPE=WORK:
+TITLE:Cloud Engineer
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:tim.harpe@t-online.de
+URL;TYPE=Digital Business Card:https://bytebridge.digital
+URL:
+URL;TYPE=LinkedIn:https://linkedin.com/in/tim-harpe/
+URL;TYPE=GitLab:https://gitlab.com/tim.harpe
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100303942
+END:VCARD
